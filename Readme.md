@@ -1,4 +1,3 @@
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ElCapor&show_icons=true&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElCapor&hide=html&theme=graywhite&layout=compact&hide_border=true">
+    FREE POLYTORIA EXECUTOR AT <a href="https://github.com/ElCapor/polytoria-executor">https://github.com/ElCapor/polytoria-executor</a>
 </p>
