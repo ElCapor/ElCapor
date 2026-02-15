@@ -51,6 +51,7 @@ I founded **YuTech Labs** – a research group focused on cutting‑edge full‑
 
 ## 📊 GitHub Stats
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElCapor&theme=radical)
 
 ---
 
