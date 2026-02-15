@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ElCapor
+# 👋 Hi, I'm ElCapor <img src="https://visitor-badge.laobi.icu/badge?page_id=ElCapor.ElCapor" alt="Profile views">
 
 [![GitHub followers](https://img.shields.io/github/followers/ElCapor?style=social)](https://github.com/ElCapor?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/ElCapor?style=social)](https://github.com/ElCapor?tab=repositories)
@@ -47,8 +47,6 @@ I founded **YuTech Labs** – a research group focused on cutting‑edge full‑
 
 ## 📊 GitHub Stats
 
-![GitHub language count](https://img.shields.io/github/languages/count/ElCapor/repo-name)
-![GitHub top language](https://img.shields.io/github/languages/top/ElCapor/repo-name)
 
 ---
 
