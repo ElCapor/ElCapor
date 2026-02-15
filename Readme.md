@@ -1,4 +1,7 @@
-# 👋 Hi, I'm ElCapor <img src="https://visitor-badge.laobi.icu/badge?page_id=ElCapor.ElCapor" alt="Profile views">
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ElCapor.ElCapor" alt="Profile views">
+</p>
+# 👋 Hi, I'm ElCapor 
 
 [![GitHub followers](https://img.shields.io/github/followers/ElCapor?style=social)](https://github.com/ElCapor?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/ElCapor?style=social)](https://github.com/ElCapor?tab=repositories)
