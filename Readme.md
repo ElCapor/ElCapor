@@ -47,8 +47,8 @@ I founded **YuTech Labs** – a research group focused on cutting‑edge full‑
 
 ## 📊 GitHub Stats
 
-![ElCapor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElCapor&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElCapor&layout=compact&theme=radical&langs_count=8&hide=html,css,javascript)
+![GitHub language count](https://img.shields.io/github/languages/count/ElCapor/repo-name)
+![GitHub top language](https://img.shields.io/github/languages/top/ElCapor/repo-name)
 
 ---
 
