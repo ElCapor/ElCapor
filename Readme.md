@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ElCapor?style=social)](https://github.com/ElCapor?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/ElCapor?style=social)](https://github.com/ElCapor?tab=repositories)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ElCapor?style=social)](https://twitter.com/ElCapor)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RtlInitThread?style=social)](https://x.com/RtlInitThread)
 
 I'm a passionate software engineer and reverse engineering enthusiast. I lead [YuTech Labs](#-yutech-labs), where we explore full‑stack and cloud technologies. I’m fluent in low‑level languages and love to dissect games and binaries.
 
