@@ -61,7 +61,7 @@ I’m available for **freelance / contract work**. Whether you need:
 - Full‑stack or cloud development
 - Security consulting (CTF, exploit research)
 
-Feel free to reach out via [email](mailto:your-email@example.com) or [Twitter](https://twitter.com/ElCapor).
+Feel free to reach out via [email](mailto:ybs@yu-tech.cloud) or [Twitter](https://twitter.com/RtlInitThread).
 
 ---
 
