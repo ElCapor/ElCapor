@@ -28,7 +28,7 @@ Passionate software engineer, and part-time reverser. I lead [YuTech Labs](#-yut
 </a
   
 <a>
-  <img src=https://github.com/ElCapor/ElCapor/blob/main/separator.png" width=30>
+  <img src="https://github.com/ElCapor/ElCapor/blob/main/separator.png" width=30>
 </a>
 
 <a href = "https://github.com/ElCapor/tix">
