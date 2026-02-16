@@ -24,7 +24,7 @@ Passionate software engineer, and part-time reverser. I lead [YuTech Labs](#-yut
 ## Projects
 <div align="center">
 <a href = "https://github.com/1337Skid/KaamoClubModApi">
-  <img src ="https://github.com/ElCapor/ElCapor/blob/main/kaamo2.png" width=200>
+  <img src ="https://github.com/ElCapor/ElCapor/blob/main/kaamo2.png" width=250>
 </a>
 <a>
   <img src="https://github.com/ElCapor/ElCapor/blob/main/sep.png" width=20 height=170>
