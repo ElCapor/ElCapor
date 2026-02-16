@@ -35,7 +35,10 @@ I'm a passionate software engineer and reverse engineering enthusiast. I lead [Y
 ---
 
 ## Projects
-[![PolyHack V3](https://github.com/ElCapor/polytoria-executor/blob/master/polyhack_banner.png)](https://github.com/ElCapor/polytoria-executor)
+
+<a href = "https://github.com/ElCapor/polytoria-executor">
+  <img src="https://github.com/ElCapor/polytoria-executor/blob/master/polyhack_banner.png" width=100>
+</a>
 
 ---
 
