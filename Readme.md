@@ -23,6 +23,12 @@ Passionate software engineer, and part-time reverser. I lead [YuTech Labs](#-yut
 
 ## Projects
 <div align="center">
+<a href = "https://github.com/1337Skid/KaamoClubModApi">
+  <img src ="https://github.com/ElCapor/ElCapor/blob/main/kaamo2.png" width=200>
+</a>
+<a>
+  <img src="https://github.com/ElCapor/ElCapor/blob/main/sep.png" width=20 height=170>
+</a>
 <a href = "https://github.com/ElCapor/polytoria-executor">
   <img src="https://github.com/ElCapor/polytoria-executor/blob/master/polyhack_banner.png" width=200>
 </a
