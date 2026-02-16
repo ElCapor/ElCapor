@@ -27,7 +27,7 @@ Passionate software engineer, and part-time reverser. I lead [YuTech Labs](#-yut
   <img src="https://github.com/ElCapor/polytoria-executor/blob/master/polyhack_banner.png" width=200>
 </a
 <a>
-  <img src="https://github.com/ElCapor/ElCapor/blob/main/separator.png" width=20 height=170>
+  <img src="https://github.com/ElCapor/ElCapor/blob/main/sep.png" width=20 height=170>
 </a>
 <a href = "https://github.com/ElCapor/tix">
   <img src="https://github.com/ElCapor/tix/blob/master/tix2.png" width=200>
