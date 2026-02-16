@@ -8,16 +8,28 @@
 [![GitHub stars](https://img.shields.io/github/stars/ElCapor?style=social)](https://github.com/ElCapor?tab=repositories)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RtlInitThread?style=social)](https://x.com/RtlInitThread)
 
-I'm a passionate software engineer and reverse engineering enthusiast. I lead [YuTech Labs](#-yutech-labs), where we explore full‑stack and cloud technologies. I’m fluent in low‑level languages and love to dissect games and binaries.
+Passionate software engineer, and part-time reverser. I lead [YuTech Labs](#-yutech-labs), where we explore full‑stack and low-level technologies. I’m fluent in low‑level languages and love to dissect games and binaries.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **YuTech Labs** – research and development in full‑stack and cloud.
+- 🔭 I’m currently working on **YuTech Labs** – my personal research group, specialized in cloud tech and low level research.
 - 🌱 I’m fluent in **C/C++**, and regularly write in **Rust**, **C#**, and **Python**.
-- 🎮 I love reverse engineering – from **Unity** and **Unreal** games to **Galaxy on Fire 2**, **Roblox**, **Polytoria**, and solving **CTFs**.
+- 🎮 I love reverse engineering – Expert il Il2Cpp Technology, Unreal Engine internals
 - 💼 Open to **paid work** – if you have a project, reach out!
+
+---
+
+## Projects
+
+<a href = "https://github.com/ElCapor/polytoria-executor">
+  <img src="https://github.com/ElCapor/polytoria-executor/blob/master/polyhack_banner.png" width=250>
+</a>
+
+<a href = "https://github.com/ElCapor/tix">
+  <img src="https://github.com/ElCapor/tix/blob/master/tix2.png" width=250>
+</a>
 
 ---
 
@@ -31,14 +43,6 @@ I'm a passionate software engineer and reverse engineering enthusiast. I lead [Y
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
----
-
-## Projects
-
-<a href = "https://github.com/ElCapor/polytoria-executor">
-  <img src="https://github.com/ElCapor/polytoria-executor/blob/master/polyhack_banner.png" width=250>
-</a>
 
 ---
 
