@@ -8,7 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ElCapor?style=social)](https://github.com/ElCapor?tab=repositories)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RtlInitThread?style=social)](https://x.com/RtlInitThread)
 
-Passionate software engineer, and part-time reverser. I lead [YuTech Labs](#-yutech-labs), where we explore full‑stack and low-level technologies. I’m fluent in low‑level languages and love to dissect games and binaries.
+Passionate software engineer, and part-time reverser. Check out my personal website for more information : [Personal Website](https://yu-tech.cloud)
 
 ---
 
